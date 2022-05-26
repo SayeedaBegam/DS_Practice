@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "YOu are an idiot";
+    std::cout << "YOu are a basic user of GITHUB ";
     return 0;
 }
